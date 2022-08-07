@@ -1,0 +1,12 @@
+This module contains the following decorators:
+
+1. 'Repeats':
+This decorator will take a function and output the functions output as many times as is specified.
+
+
+2. 'Timer'
+The timer decorator provides data on how long a function takes to run.
+
+
+3. 'Sleeper'
+This decorator sleeps/pauses for the specified number of seconds before allowing a function to run.
