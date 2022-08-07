@@ -1,1 +1,8 @@
+This module contains the following generators:
 
+1. 'Upper letters':
+This generator provides upper case letters from A to Z using ord() and chr() built in functions.
+
+
+2. 'Lower letters':
+The lower letters generator is the same as the upper letters generator, but with lower case letters instead.
